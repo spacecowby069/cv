@@ -1,0 +1,51 @@
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color:#b3b3b3;
+  border-width: 5px;
+  width: 3%;
+}
+
+h1{
+  color:Blue;
+}
+
+h2{
+  color:Blue;
+}
+
+h3{
+  color:Aqua;
+}
+
+a{
+  color:#00ffcc;
+}
+
+p{
+  color:#ff66ff;
+}
+
+th{
+  color:Aqua;
+}
+
+td{
+  color:#ff66ff;
+}
+
+ul{
+  color:#3399ff;
+}
+
+li{
+  color:#ff66ff;
+}
+
+label{
+  color:#3399ff;
+}
+
+textarea{
+  color:Gray;
+}
